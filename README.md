@@ -1,2 +1,2 @@
 # Tic Tac Toe
-A game implemented in 
+A 12th grader game implemented in Scheme.
